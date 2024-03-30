@@ -7,9 +7,9 @@ Using Selenium, this program is designed to:
 - (used as practice with webscraping)
 
 
-Insights.ipynb
-(ran on 2024.03.29 at 9:10pm CT)
-Using the NY Data API, this notebook is designed to view the most commonly drawn numbers:
+Insights.ipynb  
+(ran on 2024.03.29 at 9:10pm CT)  
+Using the NY Data API, this notebook is designed to view the most commonly drawn numbers:  
 - Overall
 - Looking only at Fridays in 2023
 - Looking at all Fridays
